@@ -1,0 +1,25 @@
+{
+  "name": "fast boost",
+  "version": "1.0.0",
+  "description": "tool that will allow to promote a social network and obtain the benefit of followers, likes, views in the different social networks",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denilsonbastidas/Raise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denilsonbastidas/Raise/issues"
+  },
+  "homepage": "https://github.com/denilsonbastidas/Raise#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "instagram-web-api": "^2.2.2",
+    "nodemon": "^2.0.19"
+  }
+}
